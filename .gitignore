@@ -1,2 +1,6 @@
 node_modules
 assets/scss
+gulpfile.babel.js
+package-lock.json
+package.json
+.babelrc
